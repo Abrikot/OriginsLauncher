@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assert/carte.png</file>
+        <file>assert/close.png</file>
+        <file>assert/fb.png</file>
+        <file>assert/icoCredits.png</file>
+        <file>assert/launcher.png</file>
+        <file>assert/pierrefeu.png</file>
+        <file>assert/pokeball.png</file>
+        <file>assert/twitter.png</file>
+        <file>assert/csp.png</file>
+        <file>assert/cs.png</file>
+        <file>assert/velocross.png</file>
+        <file>assert/pkmndp.ttf</file>
+        <file>assert/pkmnemn.ttf</file>
+        <file>assert/pkmnems.ttf</file>
+        <file>assert/installFont.bat</file>
+    </qresource>
+</RCC>
